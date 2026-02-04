@@ -8,6 +8,7 @@ I took one of my first programming classes in 2024. This way of solving problems
 - Proficient in:
     - Python
     - .NET Development
+    - C/C++
     - React
     - Javascript & Typescript
 - Other Skills:
